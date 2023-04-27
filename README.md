@@ -10,7 +10,7 @@ Docker can be used to wrap-up an application  which is encapsulated, isolated an
 
 To dockerize any application, create a folder with the application. For example, consider using a folder ./src with a application main.py. 
 
-#### Create a dockerfile
+## Create a dockerfile
 
 Docker can build images automatically by reading the instructions from the Dockerfile. The **Dockerfile** contains all the commands that are necessary to build an image.It is always named as "Dockerfile".
 1. The docker file must always begin with a **FROM** instruction. **FROM** defines a base image which can be pulled from docker hub. For example, if we want to create a python application, then we need to have python as the base image, so it can run python application.
