@@ -1,5 +1,5 @@
 # Docker 
-This Repository contains information about docker and its usage. It also contains small projects based on computer-vision and docker. 
+This Repository contains information about docker and its usage. It also contains small project based on computer-vision and docker. 
 
 Download and Install Docker-Desktop from "https://www.docker.com/products/docker-desktop/"
 
